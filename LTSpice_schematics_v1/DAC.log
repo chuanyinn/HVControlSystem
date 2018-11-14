@@ -1,0 +1,118 @@
+Circuit: * D:\RESEARCH\Accelerator\schematics\DAC.asc
+
+WARNING: Node NC_11 is floating.
+WARNING: Node NC_14 is floating.
+
+WARNING: Less than two connections to node NC_30.  This node is used by L:U6:3.
+No AC stimulus found:
+     Set the value of a current or voltage source to "AC 1."
+     to make it behave as a signal generator for AC analysis.
+Singular matrix:  Check node u1:7
+   Iteration No. 1
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00100083
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 0.00100083
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 9.84848%
+Source Step = 17.4242%
+vernier = 0.0625
+Source Step = 18.5606%
+Source Step = 20.4545%
+Source Step = 22.3485%
+Source Step = 24.2424%
+Source Step = 26.1364%
+vernier = 0.09375
+Source Step = 28.8826%
+Source Step = 31.7235%
+Source Step = 34.5644%
+Source Step = 37.4053%
+Source Step = 40.2462%
+vernier = 0.140625
+Source Step = 44.2235%
+Source Step = 47.4195%
+Source Step = 48.2984%
+Source Step = 48.5647%
+Source Step = 48.7246%
+Source Step = 48.7911%
+Source Step = 48.8577%
+Source Step = 48.9243%
+Source Step = 48.9909%
+vernier = 0.0032959
+Source Step = 49.0675%
+Source Step = 49.1673%
+Source Step = 49.2672%
+Source Step = 49.3671%
+Source Step = 49.467%
+vernier = 0.00494385
+Source Step = 49.5768%
+Source Step = 49.7266%
+Source Step = 49.8765%
+Source Step = 50.0263%
+Source Step = 50.1761%
+Source Step = 50.221%
+Source Step = 50.2585%
+Source Step = 50.2959%
+Source Step = 50.3334%
+Source Step = 50.3708%
+vernier = 0.00185394
+Source Step = 50.4139%
+Source Step = 50.4701%
+Source Step = 50.5263%
+Source Step = 50.5824%
+Source Step = 50.6386%
+vernier = 0.00278091
+Source Step = 50.7004%
+Source Step = 50.7847%
+Source Step = 50.869%
+Source Step = 50.9532%
+Source Step = 51.0375%
+vernier = 0.00417137
+Source Step = 51.126%
+Source Step = 51.2524%
+Source Step = 51.3788%
+Source Step = 51.5052%
+Source Step = 51.6316%
+Source Step = 51.758%
+vernier = 0.00625706
+Source Step = 51.9476%
+Source Step = 52.1372%
+Source Step = 52.3268%
+Source Step = 52.5164%
+Source Step = 52.7061%
+vernier = 0.00938559
+Source Step = 52.981%
+Source Step = 53.2654%
+Source Step = 53.5498%
+Source Step = 53.8342%
+Source Step = 54.1186%
+vernier = 0.0140784
+Source Step = 54.5168%
+Source Step = 54.9434%
+Source Step = 55.37%
+Source Step = 55.7967%
+Source stepping aborted.
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 5.00006 µs.
+Fatal Error: Failed to find DC operating point for AC analysis.
